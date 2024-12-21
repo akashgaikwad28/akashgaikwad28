@@ -14,7 +14,7 @@ I'm on a mission to **solve real-world problems** with **technology and innovati
 ### 🚀 **About Me**
 
 - 🌍 **Vision**: To leverage technology to empower people, particularly those who need it most 🌾💡.
-- 💻 **Skills**: AI/ML, Full-Stack Development, Cloud Solutions, and Data Analytics 🛠️
+- 💻 **Skills**: AI/ML, Backend development 🛠️
 - 🧩 **Key Projects**: [Bank Credit Risk System](https://github.com/akashgaikwad28/credit_risk)
 - 🎯 **Next Steps**: Exploring **Generative AI** for creative solutions ✨
 - 🚀 **Mantra**: _"Code solutions. Build businesses. Change lives."_
