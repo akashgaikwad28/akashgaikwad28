@@ -4,28 +4,29 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
 
-**Entrepreneur, Developer, and Innovator** 🌱💻  
-> *"The best way to predict the future is to create it."* 
+**Entrepreneur, Developer, and AI Enthusiast** 🌱💻  
+> *"The best way to predict the future is to create it."*
 
-I'm on a mission to **solve real-world problems** with **technology and innovation**! From building scalable backend systems to crafting AI solutions, I combine development and entrepreneurship to make life simpler for others.
+I'm on a mission to **solve real-world problems** with **technology and innovation**! From building AI-powered solutions to backend development, I combine development and entrepreneurship to create impact.
 
 ---
 
 ### 🚀 **About Me**
 
-- 🌍 **Vision**: To leverage technology to empower people, particularly those who need it most 🌾💡.
-- 💻 **Skills**: AI/ML, Backend development 🛠️
-- 🧩 **Key Projects**: [Bank Credit Risk System](https://github.com/akashgaikwad28/credit_risk)
-- 🎯 **Next Steps**: Exploring **Generative AI** for creative solutions ✨
-- 🚀 **Mantra**: _"Code solutions. Build businesses. Change lives."_
+- 🌍 **Vision**: Empower people with AI-driven solutions to real-world challenges 🌾💡.
+- 💻 **Skills**: AI/ML, Backend Development, Deep Learning, NLP
+- 🌟 **Internship**: Physics Wallah (Machine Learning Intern)
+- 🛠️ **Tech Stack**: Python, Java, TensorFlow, Scikit-learn, Flask, Docker
+- 🔄 **Next Steps**: Exploring **Generative AI** for creative solutions ✨
+- 🚀 **Mantra**: _"Solve problems. Build businesses. Create impact."_
 
 ---
 
 ## 🛠️ **Tech Superpowers**
 
-| **Programming Languages** 🌐 | **Frameworks & Tools** 🧰 | **Cloud & AI/ML** ☁️🤖 |  
+| **Programming Languages** 🌐 | **Frameworks & Tools** 🧙‍🔧 | **Cloud & AI/ML** ☁️🤖 |  
 |:---:|:---:|:---:|  
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 
 ---
 
@@ -36,8 +37,9 @@ I'm on a mission to **solve real-world problems** with **technology and innovati
 | 🏦 **Key Project** | 🔍 **Description** | 🔗 **Link** |  
 |:---|:---|:---:|  
 | **Bank Credit Risk** | Predicts credit risk using ML for smarter financial decisions | [View Project](https://github.com/akashgaikwad28/credit_risk) |
-| **Farmers eCommerce App** | Solving farmers' struggles with fertilizer procurement 🧑‍🌾 | *In Development* 🚧 |
-| **NLP Research** | Building smarter chatbots with Natural Language Processing | *Coming Soon* 🌐 |
+| **Wafers Fault Detection** | ML model for semiconductor wafer fault detection with CI/CD and MongoDB | *In Development* 🛠️ |
+| **Chicken Disease Detection** | AI-powered detection of poultry diseases using deep learning | *Coming Soon* 🌍 |
+| **Text Summarization** | NLP-based summarization model using Transformers | *Coming Soon* 🕵️ |
 
 ---
 
@@ -60,17 +62,16 @@ I'm on a mission to **solve real-world problems** with **technology and innovati
 
 ### **Motivational Thought for Builders and Innovators:**
 
-> _"The value of an idea lies in the using of it."_ — 
+> _"The value of an idea lies in the using of it."_ — Thomas Edison  
 
 ---
 
 ## 🌐 **Let's Connect & Build Together**
 
 <p align="center">
-    <a href="mailto:acashtech28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:akash.gaikwad9945@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/akash-santosh-gaikwad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://twitter.com/akashgaikwad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="https://www.instagram.com/mr.acash_96k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://github.com/akashgaikwad28"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -87,10 +88,11 @@ I'm on a mission to **solve real-world problems** with **technology and innovati
 
 ---
 
-*🚀 Turning ideas into impact, one line of code at a time!* 💻✨  
+*Turning ideas into impact, one line of code at a time!* 💻✨  
 
 ---
 
-⭐ **Star my repos and let's solve real-world problems together!** 🌍
+🌟 **Star my repos and let's solve real-world problems together!** 🌍  
 
 ---
+
