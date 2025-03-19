@@ -64,7 +64,7 @@
 
 ### 👀 **Profile Visitors**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=akashgaikwad28&color=brightgreen&style=flat-square&label=Profile+Visitors+%281000%2B%29)
+![Visitor Count](https://komarev.com/ghpvc/?username=akashgaikwad28&color=brightgreen&style=flat-square&label=Profile+Visitors)
 
 ---
 
