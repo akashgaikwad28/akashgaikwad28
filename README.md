@@ -1,55 +1,54 @@
-## 👋 Hey there! I'm Akash Gaikwad
+# 👋I Am Akash Gaikwad
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+</p>
 
-🎓 **Machine Learning Enthusiast | Backend Developer | Deep Learning Explorer**
+**Data Science | Full Stack Web Developer**
 
 > _"The best way to predict the future is to create it."_
 
 ---
 
-### 💼 **About Me**
+## 💼 About Me
 
-- 📍 **Engineering Student** at Dr. D. Y. Patil Institute of Technology, Pune  
-- ⚙️ Passionate about **AI/ML, NLP, and Deep Learning**
-- 👨‍💻 **Machine Learning Intern at Physics Wallah**
-- 📚 Exploring **Transformers, Computer Vision, and Generative AI**
-- 📫 **Email**: akash.gaikwad9945@gmail.com  
-- 🔗 **LinkedIn**: [Akash Gaikwad](https://www.linkedin.com/in/akash-santosh-gaikwad)  
-- 💻 **GitHub**: [akashgaikwad28](https://github.com/akashgaikwad28)
-
----
-
-### 🛠️ **Tech Stack & Tools**
-
-| Languages | Frameworks & Libraries | Tools & Platforms | AI/ML |
-|:--:|:--:|:--:|:--:|
-| Python, Java | Flask, Docker, Node.js | GitHub, Git, VS Code, MySQL, Power BI | Scikit-learn, TensorFlow, Keras, Pandas, NumPy, NLTK, Transformers |
+- Passionate about **AI/ML, Deep Learning, and Generative AI**
+- Experienced in **Backend Development** using Node.js, Express, and Databases
+- Always exploring and building with emerging technologies in **Gen AI** and **Agentic AI**
+- 📫 **Email:** akash.gaikwad9945@gmail.com  
+- 🔗 **LinkedIn:** [Akash Gaikwad](https://www.linkedin.com/in/akash-santosh-gaikwad)  
+- 💻 **GitHub:** [akashgaikwad28](https://github.com/akashgaikwad28)
 
 ---
 
-### 📊 **Skills Summary**
+## 🛠️ Tech Stack & Tools
 
-- Machine Learning: Supervised & Unsupervised Learning, Model Evaluation, Data Preprocessing  
-- NLP: Text Preprocessing, Word Embeddings, Transformers  
-- Deep Learning: Model Training, Hyperparameter Optimization, Transfer Learning  
-- Development Tools: Jupyter Notebook, Google Colab, GitHub Actions  
-- Soft Skills: Problem-solving, Time Management, Pressure Handling  
-
----
-
-### 🚀 **Projects Showcase**
-
-| 💡 Project | 🔍 Description | 🔗 Link |
-|--------|--------------------|--------|
-| **Credit Risk Prediction** | ML model to predict credit risk using Kaggle’s German Credit dataset. Achieved 85% accuracy using Random Forest, XGBoost, SVM, etc. | [GitHub Repo](https://github.com/akashgaikwad28/credit_risk) |
-| **Wafer Fault Detection System** | Classifies semiconductor wafers as "good" or "bad" using ML. Integrated Flask backend with CI/CD, Docker & MongoDB Atlas. | *In Development* |
-| **Chicken Disease Detection** | Deep learning model using VGG16 to detect poultry diseases via image classification. Real-time prediction interface included. | *Coming Soon* |
-| **Text Summarization using Transformers** | Transformer-based NLP system to generate concise summaries of long text documents. | *Coming Soon* |
+| **Category**            | **Technologies & Tools**                                          |
+|------------------------|-------------------------------------------------------------------|
+| **Languages**          | Python, Java, JavaScript                                         |
+| **Frontend**           | React.js, Next.js, HTML, CSS, Tailwind CSS                       |
+| **Backend**            | Node.js, Express.js                                              |
+| **Databases**          | MySQL, MongoDB, ChromaDB                                         |
+| **Cloud & Deployment** | AWS, GitHub Actions                                              |
+| **AI/ML Tools**        | Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Jupyter, Power BI |
+| **Gen AI / Agentic AI**| LangChain, LlamaIndex, Hugging Face Transformers, OpenAI API, ChromaDB |
+| **Other Tools**        | Git, GitHub, Docker, VS Code                                     |
 
 ---
 
-### 📈 **GitHub Stats**
+## 📊 Skills Summary
+
+- **Machine Learning:** Supervised & Unsupervised Learning, Model Evaluation, Data Preprocessing  
+- **Natural Language Processing:** Text Preprocessing, Word Embeddings, Transformers  
+- **Deep Learning:** Model Training, Hyperparameter Tuning, Transfer Learning  
+- **Generative AI:** LLM Frameworks, Prompt Engineering, AI Agents  
+- **Backend Development:** REST APIs, Authentication, Database Integration  
+- **Frontend Development:** Responsive UI, State Management, Tailwind CSS  
+- **Development Tools:** Docker, Jupyter Notebook, Google Colab, GitHub Actions  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashgaikwad28&show_icons=true&theme=radical" width="48%" />
@@ -62,13 +61,15 @@
 
 ---
 
-### 👀 **Profile Visitors**
+## 👀 Profile Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=akashgaikwad28&color=brightgreen&style=flat-square&label=Profile+Visitors)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akashgaikwad28&color=brightgreen&style=flat-square&label=Profile+Visitors" />
+</p>
 
 ---
 
-### 📫 **Let’s Connect**
+## 📫 Let’s Connect
 
 <p align="center">
   <a href="mailto:akash.gaikwad9945@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -78,16 +79,14 @@
 
 ---
 
-### 🔥 **Typing Animation**
+## 🔥 What I Am Doing
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Machine+Learning+Developer;Deep+Learning+Explorer;NLP+and+AI+Learner;Building+ML+Solutions+with+Code!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=600&center=true&lines=Data+Science;Web+Development;Exploring+Generative+AI+and+Agentic+AI+Frameworks" />
 </p>
 
 ---
 
-✨ _Learning something new every day, one model at a time!_
+<p align="center"><b>Always striving to innovate and learn something new every day.</b></p>
 
----
-
-⭐ **Star my repositories and let's grow together in tech!**
+<p align="center"><b>⭐ Feel free to star my repositories and stay connected!</b></p>
